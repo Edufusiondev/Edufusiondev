@@ -1,4 +1,11 @@
 ### Olá! me chamo Eduardo Silva 👋
+![Edufusiondev](https://github.com/Edufusiondev/Edufusiondev/assets/130021777/8541db28-38a6-4b31-8aa9-875438bedebb)
+<p>
+    iniciei os estudos em programação no início de 2023, com foco nas mais novas tecnologias.<br>
+    Atualmente estudo para adquirir novas habilidades e desenvolvo projetos pessoais, portifólio e sites.
+</p>
+
+### Redes :
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-silva-7aa938264/)
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edufusiondev)
